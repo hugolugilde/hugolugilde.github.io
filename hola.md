@@ -1,4 +1,0 @@
----
-title: Hola
-layout: hola
----
