@@ -6,3 +6,5 @@ url: https://hugolugilde.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+nav_enabled = false
