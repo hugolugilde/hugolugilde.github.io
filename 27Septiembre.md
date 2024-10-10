@@ -1,7 +1,7 @@
 ---
 title: 27 de Septiembre
-parent: Primera Página
-nav_order: 2
+parent: Huelgas Convocadas
+nav_order: 1
 ---
 
 # Huelga del 27 de Septiembre
