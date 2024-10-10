@@ -1,4 +1,4 @@
 ---
 title: Primera Página
-nav_enabled = true
+nav_order: 3
 ---
