@@ -1,6 +1,7 @@
 ---
 title: 27 de Septiembre
 parent: Huelgas Convocadas
+layout: home
 nav_order: 1
 ---
 
