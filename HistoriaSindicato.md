@@ -1,5 +1,6 @@
 ---
 title: Historia del Sindicato de Estudiantes
+layout: home
 nav_order: 3
 ---
 
