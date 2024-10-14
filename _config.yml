@@ -10,9 +10,6 @@ nav_enabled: true
 
 favicon_ico: "/sindicato.ico"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
 nav_external_links:
   - title: Sindicato de estudiantes
     url: https://www.sindicatodeestudiantes.net/
