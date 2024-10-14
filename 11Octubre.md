@@ -1,6 +1,7 @@
 ---
 title: 11 de Octubre
 parent : Huelgas Convocadas
+layout: home
 nav_order: 2
 ---
 
