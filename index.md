@@ -12,7 +12,7 @@ El Sindicato de Estudiantes es una **asociación de estudiantes española**. Agr
 
 Se define como una **organización revolucionaria, antifascista, obrera, internacionalista y anticapitalista**.​ Sus reivindicaciones están centradas en la mejora de la **calidad de la enseñanza pública**, la defensa de la laicidad de la enseñanza, el reconocimiento del derecho de huelga de los estudiantes de enseñanzas medias y la supresión de las pruebas de acceso a la universidad. Su estrategia permanente de lucha es la unidad con la clase trabajadora. La táctica que adopta es el frente único con las organizaciones políticas y sindicales de la clase obrera.
 
-![LogoSindicato](https://upload.wikimedia.org/wikipedia/commons/7/72/Sindicato_de_Estudiantes_Palencia.png#alignright)
+![LogoSindicato](https://upload.wikimedia.org/wikipedia/commons/7/72/Sindicato_de_Estudiantes_Palencia.png)
 
 ## Información general sobre el Sindicato
 
