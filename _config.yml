@@ -6,6 +6,8 @@ url: https://hugolugilde.github.io
 
 search_enabled: false
 
+nav_enabled: true
+
 favicon_ico: "/sindicato.ico"
 
 aux_links:
