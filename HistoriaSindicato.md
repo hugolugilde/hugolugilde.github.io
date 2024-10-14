@@ -9,7 +9,7 @@ nav_order: 3
 Vamos a ver un resumen de las etapas que tuvo que pasar el Sindicato de Estudiantes hasta llegar a ser lo que es hoy en día
 
 ## Lucha estudiantiles de 1986-87
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Durante el primer gobierno del Partido Socialista y tras el de la UCD, estalló una intensa lucha estudiantil entre 1986 y 1987, impulsada por la desesperanzadora situación de la juventud en España. Con altas tasas de paro juvenil, problemas de acceso a las drogas y escasas infraestructuras culturales, los estudiantes se movilizaron en respuesta a una educación no gratuita y obligatoria solo hasta los 14 años. Muchos de estos jóvenes venían de un periodo de activismo político, lo que facilitó la organización de protestas, especialmente a través del Sindicato de Estudiantes, que se había formado a finales de 1985 y ganó relevancia en este contexto.
 
 A lo largo del curso, los estudiantes realizaron numerosas manifestaciones, alcanzando una notable movilización el 4 de diciembre, donde más de 100,000 jóvenes marcharon hacia el Ministerio de Educación. Las protestas, que incluyeron el apoyo de sindicatos como CCOO y UGT, fueron reprimidas por la policía, lo que generó mayor solidaridad entre los trabajadores. Finalmente, tras varias semanas de movilizaciones, el Ministerio cedió a las principales demandas estudiantiles, que incluían aumento del presupuesto en educación y la gratuidad de las Enseñanzas Medias, aunque no se logró la eliminación de la selectividad.
